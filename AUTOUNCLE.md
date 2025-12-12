@@ -14,7 +14,7 @@ npm run build
 "redash-mcp": {
   "command": "node",
   "args": [
-    "/Users/brunoaraujo/workspace/autouncle/redash-mcp/dist/cli.js"
+    "<full_path>/redash-mcp/dist/cli.js"
   ],
   "env": {
     "REDASH_API_KEY": "api_key",
