@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.0.6](https://github.com/AutoUncle/redash-mcp/commits/v0.0.6) - 2026-11-12
+
+- Pin GitHub Actions to commit SHAs by @dipth in https://github.com/AutoUncle/redash-mcp/pull/7
+
 ## [v0.0.6](https://github.com/suthio/redash-mcp/compare/v0.0.5...v0.0.6) - 2025-11-26
 - feat: Add CSV export support for query results by @suthio in https://github.com/suthio/redash-mcp/pull/20
 
